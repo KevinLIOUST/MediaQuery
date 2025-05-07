@@ -1,0 +1,13 @@
+/* Importation de la police d'écriture */
+
+@import url('https://fonts.googleapis.com/css2?family=Delius&family=Delius:ital,wght@0,100..900;1,100..900&display=swap');
+
+p {
+    display: flex;
+    font-weight: bold;
+    font-size: 5rem;
+    font-family: Delius;
+    border: 3px solid black;
+    justify-content: center;
+    
+}
